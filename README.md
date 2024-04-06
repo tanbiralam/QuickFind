@@ -26,6 +26,4 @@ To use QuickFind:
 
 - **[Tanbir Alam]**: [Your GitHub Profile](https://github.com/tanbiralam)
 
-## License
 
-This project is licensed under the [MIT License](link).
