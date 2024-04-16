@@ -1,6 +1,6 @@
 # QuickFind ⚡
 
-QuickFind is a high-performance API built with Hono, Next.js, and Cloudflare. It allows users to quickly search for countries and retrieve results in milliseconds.
+QuickFind is a high-performance API built with Hono, Next.js, and Vercel. It allows users to quickly search for countries and retrieve results in milliseconds.
 
 
 ## Usage
